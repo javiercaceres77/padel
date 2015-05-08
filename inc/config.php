@@ -11,11 +11,11 @@ $conf_mods_path = 'mod/';
 $conf_default_mod = 'home';
 
 // SETTINGS
-$conf_db_host = 'lcgastedev.db.9132695.hostedresource.com';
+$conf_db_host = '127.0.0.1';
 $conf_db_type = 'mysql';
-$conf_db_name = 'lcgastedev';
-$conf_db_user = 'eWhnaHd2ZGpmbw==';
-$conf_db_pass = 'WzFve2x3NWRoZGh1dQ==';
+$conf_db_name = 'padel';
+$conf_db_user = 'bHNrc2x5ZG0=';
+$conf_db_pass = 'QHJkb09kN2RF';
 $conf_db_date_format = 'Y-m-d';
 $conf_db_datetime_format = 'Y-m-d H:i:s';
 
